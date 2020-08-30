@@ -1,5 +1,5 @@
 {
-  "name": "cipher",
+  "name": "@ellie-xyb/cipher",
   "version": "1.0.0",
   "description": "a basic Caesar Cipher",
   "main": "lib.js",
