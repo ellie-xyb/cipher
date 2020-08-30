@@ -1,0 +1,29 @@
+{
+  "name": "cipher",
+  "version": "1.0.0",
+  "description": "a basic Caesar Cipher",
+  "main": "lib.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellie-xyb/cipher.git"
+  },
+  "keywords": [
+    "cipher",
+    "simple",
+    "encryption",
+    "decryption",
+    "crypto",
+    "ascii",
+    "caesar-cipher"
+  ],
+  "author": "ellie-xyb <xuyibo1012@yahoo.co.jp>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ellie-xyb/cipher/issues"
+  },
+  "homepage": "https://github.com/ellie-xyb/cipher#readme"
+}
