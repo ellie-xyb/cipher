@@ -1,6 +1,6 @@
 {
   "name": "@ellie-xyb/cipher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a basic Caesar Cipher",
   "main": "lib.js",
   "type": "module",
